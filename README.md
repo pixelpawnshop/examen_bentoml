@@ -22,7 +22,7 @@ Afin de pouvoir commencer le projet vous devez suivre les étapes suivantes:
 
 - Cloner le projet sur votre machine
 
-- Récuperer le jeu de données à partir du lien suivant: [Lien de téléchargement](https://drive.google.com/file/d/1Q6Q6Z
+- Récuperer le jeu de données à partir du lien suivant: [Lien de téléchargement]( https://datascientest.s3-eu-west-1.amazonaws.com/examen_bentoml/admissions.csv)
 
 
 Bon travail!
