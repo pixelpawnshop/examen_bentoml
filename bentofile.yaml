@@ -13,5 +13,9 @@ python:
     - bentoml
     - scikit-learn
     - pandas
-    - fastapi
     - pyjwt
+    - starlette
+    - pydantic
+docker:
+  dockerfile_template: "./Dockerfile.template"
+  base_image: python:3.8-slim
