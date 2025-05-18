@@ -169,13 +169,3 @@ All tests should pass, covering:
 3. Run the tests with `pytest tests/test_service.py -v` (all should pass).
 
 ---
-
-## 📚 References
-
-- [BentoML Documentation](https://docs.bentoml.org/)
-- [Docker Documentation](https://docs.docker.com/)
-- [Pytest Documentation](https://docs.pytest.org/)
-
----
-
-**Good luck!**

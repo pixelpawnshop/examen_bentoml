@@ -3,3 +3,4 @@
 /.venv
 /clean_data.csv
 /.pytest_cache
+bento_image.tar
